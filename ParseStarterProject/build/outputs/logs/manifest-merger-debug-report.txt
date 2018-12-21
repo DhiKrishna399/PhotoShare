@@ -1,0 +1,1021 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/ba1a1f06c42cdf02cde9262c2eb5a919/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/ed2be75e3abb7408b31fece7de9e5aef/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/262c84fdd1bf7d4c0c74846b2f36d8c1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4185d9ea62146e631af9ad782961d4fb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/470baa7104cb277802a7339cb45fe119/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/multidex-1.0.0.aar/04c791fa6f84457983a1f68e2411f142/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bb9cc1793d65732e09dc279bd90349c6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/7269d5a58bbbf5945f55893447a118d4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/829b13ac2aa779c379acf87caddb2296/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/537eeb48436516e36421fd04720e8786/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/0b9d9b178a9bcba5f9674933500f9c2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/035ab10e5b7a490d3138ae7ce9e0d126/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/859c57aa6c9f9233f9551534852cdcb9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/a3fb0e73998880ae15eb85c6a418667f/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/dea82f61afeeae028692efeb1d3a8b5f/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/533c5c09704e9d44adbfc39cac701d28/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/0b4ef7f68177413bd545c9215757f99a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/8b476978b2191ecd31232e0b26c2fef7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/a57bdeb11f1e470facbe6a54e4f11cd7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b0b8ab434edd8f86c0069cc5c7f7bd54/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/23bc070694d37fc5db96e1b227b52848/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/755c6845321ac54b778cca5b2b59734d/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/9745547f9fe71c416dbd817e7a6ff38f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/dc80c0c9cf60d59daddc21e2a38ce909/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/7a6d6687ddbf0f82096057acb453fbb9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/975b5ec56fa46852b16e6563fc001652/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/ed1ecfdecc0e017355b2123c63f49cb4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/d8a4c86eaae09ead63e8e016fe99fd72/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/77f39f6df65de435bf5048061f4194ed/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/8d3832b0c2030d1807bb9715c5f098ee/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/afb6d07c96ce43040cf3d249c40b27fc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/54231cb26af447a057f6f820460951dc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/8b8643072c2a98853a335e93b6455a6d/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/ef11b46237a8fb88079ba4008010f5fa/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/e4d888e23856f9ceb160d6f4e7e4e42c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/7d402646e305bd3b9f2bd8910f52b9a1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/a61784a934bc486b71a5b4a81fa069f1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/33f0ddbcf266ceb654497fc43c7a8e6d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/5862394ed065662a54f075cb887e6bdb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/8e74d172173f1efa4f79f17031102dc3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6781e2c0b2aaad7bcf6df54acdb1f4fd/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/fb385b866a43913c3861f4e7532948c2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/035fea31aaffe73e1ffbd67c34a5b988/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/0e3e170cbbf97264f8afd92c0c964cf7/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/b2a7aa4a79a23b320bbb9fab4930d533/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/9f7c3382d082614dca91325ffdd73c4d/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/a6e283cec6cb99e4fac5bd36ae5963e7/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/0b50e8216eaaf3cebb23cc4abc43d40f/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/375c0702562259ab4e2553d760f5b5e7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/9ec6e607fd18116bd23486ad4193cc19/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/cdb9fb4a6ffb2d9b2df7a5f101b1fe39/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4e1f10d981e6c08390e81130c8a6ff43/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fca6cb2915e72ff491f8b83483489b5d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3b8add7f5df89e4abe45f84cc999b708/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0e7d4a8e89dc7d19d62d298f18060052/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/7354e752df3931f13ba9afda85b88657/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/41e0a1d89e82698d02b6c113cfcd7e25/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8c4e07aa7cdcf3b799e5b9a1aba63131/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/af2a03ef4ffaf6e579f1fa13363e1b2c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/168bc4150fe3cd0b404a720da67e2076/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/9ad380fca323a54c7bb2fc9569e717b3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/2574e69657b5ccb3221ab63e085b2207/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/bc56b4684826c27228b50bd79264f498/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/9fb24bfebde5d979c0b01b1127e195f3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/561a4fef91b57923b3e3a56c6723b0a5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/80413bd082a1861a0f8a34de671c0744/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/4ef8dcee43306dc0c21b1a43d6eb492f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/01ed5a0fe451fe36e057d0d26615d12b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/cf5ecde2607da7bbd393e4e9f904c84a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/f3ff7e9f589c6dc08b548e9a7ce2c5a4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/cf90d18479c589d0fb3daca1bd364423/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/21a821886f16a13cc51cc7d2c5afbe62/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/4e77e8c91466787c7583b0b59f89323d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/7f17cdbbea882f480497688f52551169/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/0d1404341a935a8b3022176a99fe6882/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/0cd15496c243bb2ccef803ef27807a3f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/e57f61270627db4ce640d4cb5e6ad1a6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/33c18d0d22c08d06ca5b3c6800a3bd50/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/57ce0bc13aafdc1ba0ade891007ef22c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/a6a28d4f1250a5d3e4e5fb153e16ec09/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/29ab5e73237a68899dd8ffe97bc1d074/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/6fa69e876b701beb1d3a1d595a232cfe/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/de1b327453f4728bbe7b1ce2b6893baf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/76f682e44b3954a468b04a09caf03d7a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/645b79b0cec33410b5dd5bed8d5a3391/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/8fe733984bad72d55838bda946c18ad7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/070b2a0b004598f50422ddea906a0b69/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/b8126bb74779e796428c726202bd1ba3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/062db87c57b3d9b41138b7e8fc9dac63/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/6b2dc8129d043f1682601a232043d27a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/7f0c69e62fdafcf00df7de13d4d1bd27/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/abe143e83e944ab30baf4faddf697acb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/081a15abd9f32abeefd04fddd943da82/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/d9090b2f6c0f52354a0e09ede3bd43c7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/5b221e201464292f4ed1e9853c29ff35/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/c9bca79405a7f97e4b8e61049c296ca6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/2ba7b29874fdb1cc299f277dbd3e0c85/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/0fea354ccd6ed199beb1bb15ec38b3fd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/1ee0fdab938aca973927c32b28c6a617/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/edb52a407431dfdbe79858bc324ef156/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/85c61447393a70835f3c6313329cba38/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/b80162b468e4303c3294f461dbbb429d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/fa3e11198fd41b6c6017245a95592745/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/d8d23a12ab67e7a929e0cccdadd6e4ff/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/8e00f6f06a76410b998d1d15d1622b7c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/6aa4e633ad1c15b46f79bfa2bc3e10b9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/747a3bc70657f59c6b642e5bcc5d9aca/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/70e6257c7382f1d452b46b2def917cec/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/db6ec36280645ae0f511fb99a6ae997f/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/bd8484c82ba0dff82fcf6694b13c5a30/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+	package
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+		INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+		INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/537eeb48436516e36421fd04720e8786/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/537eeb48436516e36421fd04720e8786/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/859c57aa6c9f9233f9551534852cdcb9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/859c57aa6c9f9233f9551534852cdcb9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/7a6d6687ddbf0f82096057acb453fbb9/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/7a6d6687ddbf0f82096057acb453fbb9/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/77f39f6df65de435bf5048061f4194ed/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/77f39f6df65de435bf5048061f4194ed/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/8b8643072c2a98853a335e93b6455a6d/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/8b8643072c2a98853a335e93b6455a6d/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/fb385b866a43913c3861f4e7532948c2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/fb385b866a43913c3861f4e7532948c2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/537eeb48436516e36421fd04720e8786/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/537eeb48436516e36421fd04720e8786/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/859c57aa6c9f9233f9551534852cdcb9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/859c57aa6c9f9233f9551534852cdcb9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/8b8643072c2a98853a335e93b6455a6d/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/8b8643072c2a98853a335e93b6455a6d/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/ef11b46237a8fb88079ba4008010f5fa/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/ef11b46237a8fb88079ba4008010f5fa/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
+application
+ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:5-34:19
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/ba1a1f06c42cdf02cde9262c2eb5a919/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/ba1a1f06c42cdf02cde9262c2eb5a919/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/ed2be75e3abb7408b31fece7de9e5aef/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/ed2be75e3abb7408b31fece7de9e5aef/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/262c84fdd1bf7d4c0c74846b2f36d8c1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/262c84fdd1bf7d4c0c74846b2f36d8c1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4185d9ea62146e631af9ad782961d4fb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4185d9ea62146e631af9ad782961d4fb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/470baa7104cb277802a7339cb45fe119/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/470baa7104cb277802a7339cb45fe119/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bb9cc1793d65732e09dc279bd90349c6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bb9cc1793d65732e09dc279bd90349c6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/7269d5a58bbbf5945f55893447a118d4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/7269d5a58bbbf5945f55893447a118d4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/537eeb48436516e36421fd04720e8786/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/537eeb48436516e36421fd04720e8786/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/035ab10e5b7a490d3138ae7ce9e0d126/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/035ab10e5b7a490d3138ae7ce9e0d126/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/859c57aa6c9f9233f9551534852cdcb9/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/859c57aa6c9f9233f9551534852cdcb9/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/a3fb0e73998880ae15eb85c6a418667f/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/a3fb0e73998880ae15eb85c6a418667f/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/0b4ef7f68177413bd545c9215757f99a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/0b4ef7f68177413bd545c9215757f99a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/8b476978b2191ecd31232e0b26c2fef7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/8b476978b2191ecd31232e0b26c2fef7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/a57bdeb11f1e470facbe6a54e4f11cd7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/a57bdeb11f1e470facbe6a54e4f11cd7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b0b8ab434edd8f86c0069cc5c7f7bd54/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b0b8ab434edd8f86c0069cc5c7f7bd54/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/23bc070694d37fc5db96e1b227b52848/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/23bc070694d37fc5db96e1b227b52848/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/755c6845321ac54b778cca5b2b59734d/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/755c6845321ac54b778cca5b2b59734d/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/9745547f9fe71c416dbd817e7a6ff38f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/9745547f9fe71c416dbd817e7a6ff38f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/dc80c0c9cf60d59daddc21e2a38ce909/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/dc80c0c9cf60d59daddc21e2a38ce909/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/7a6d6687ddbf0f82096057acb453fbb9/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/7a6d6687ddbf0f82096057acb453fbb9/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/975b5ec56fa46852b16e6563fc001652/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/975b5ec56fa46852b16e6563fc001652/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/d8a4c86eaae09ead63e8e016fe99fd72/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/d8a4c86eaae09ead63e8e016fe99fd72/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/77f39f6df65de435bf5048061f4194ed/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/77f39f6df65de435bf5048061f4194ed/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/afb6d07c96ce43040cf3d249c40b27fc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/afb6d07c96ce43040cf3d249c40b27fc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/54231cb26af447a057f6f820460951dc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/54231cb26af447a057f6f820460951dc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/8b8643072c2a98853a335e93b6455a6d/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/8b8643072c2a98853a335e93b6455a6d/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/ef11b46237a8fb88079ba4008010f5fa/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/ef11b46237a8fb88079ba4008010f5fa/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/e4d888e23856f9ceb160d6f4e7e4e42c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/e4d888e23856f9ceb160d6f4e7e4e42c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/7d402646e305bd3b9f2bd8910f52b9a1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/7d402646e305bd3b9f2bd8910f52b9a1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/a61784a934bc486b71a5b4a81fa069f1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/a61784a934bc486b71a5b4a81fa069f1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/33f0ddbcf266ceb654497fc43c7a8e6d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/33f0ddbcf266ceb654497fc43c7a8e6d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/5862394ed065662a54f075cb887e6bdb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/5862394ed065662a54f075cb887e6bdb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/8e74d172173f1efa4f79f17031102dc3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/8e74d172173f1efa4f79f17031102dc3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6781e2c0b2aaad7bcf6df54acdb1f4fd/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6781e2c0b2aaad7bcf6df54acdb1f4fd/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/fb385b866a43913c3861f4e7532948c2/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/fb385b866a43913c3861f4e7532948c2/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/b2a7aa4a79a23b320bbb9fab4930d533/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/b2a7aa4a79a23b320bbb9fab4930d533/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/0b50e8216eaaf3cebb23cc4abc43d40f/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/0b50e8216eaaf3cebb23cc4abc43d40f/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/375c0702562259ab4e2553d760f5b5e7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/375c0702562259ab4e2553d760f5b5e7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/9ec6e607fd18116bd23486ad4193cc19/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/9ec6e607fd18116bd23486ad4193cc19/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/cdb9fb4a6ffb2d9b2df7a5f101b1fe39/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/cdb9fb4a6ffb2d9b2df7a5f101b1fe39/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4e1f10d981e6c08390e81130c8a6ff43/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4e1f10d981e6c08390e81130c8a6ff43/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fca6cb2915e72ff491f8b83483489b5d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fca6cb2915e72ff491f8b83483489b5d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3b8add7f5df89e4abe45f84cc999b708/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3b8add7f5df89e4abe45f84cc999b708/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0e7d4a8e89dc7d19d62d298f18060052/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0e7d4a8e89dc7d19d62d298f18060052/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/7354e752df3931f13ba9afda85b88657/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/7354e752df3931f13ba9afda85b88657/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/41e0a1d89e82698d02b6c113cfcd7e25/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/41e0a1d89e82698d02b6c113cfcd7e25/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8c4e07aa7cdcf3b799e5b9a1aba63131/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8c4e07aa7cdcf3b799e5b9a1aba63131/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/af2a03ef4ffaf6e579f1fa13363e1b2c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/af2a03ef4ffaf6e579f1fa13363e1b2c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/168bc4150fe3cd0b404a720da67e2076/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/168bc4150fe3cd0b404a720da67e2076/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/9ad380fca323a54c7bb2fc9569e717b3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/9ad380fca323a54c7bb2fc9569e717b3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/2574e69657b5ccb3221ab63e085b2207/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/2574e69657b5ccb3221ab63e085b2207/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/bc56b4684826c27228b50bd79264f498/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/bc56b4684826c27228b50bd79264f498/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/9fb24bfebde5d979c0b01b1127e195f3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/9fb24bfebde5d979c0b01b1127e195f3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/561a4fef91b57923b3e3a56c6723b0a5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/561a4fef91b57923b3e3a56c6723b0a5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/80413bd082a1861a0f8a34de671c0744/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/80413bd082a1861a0f8a34de671c0744/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/4ef8dcee43306dc0c21b1a43d6eb492f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/4ef8dcee43306dc0c21b1a43d6eb492f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/01ed5a0fe451fe36e057d0d26615d12b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/01ed5a0fe451fe36e057d0d26615d12b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/cf5ecde2607da7bbd393e4e9f904c84a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/cf5ecde2607da7bbd393e4e9f904c84a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/f3ff7e9f589c6dc08b548e9a7ce2c5a4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/f3ff7e9f589c6dc08b548e9a7ce2c5a4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/cf90d18479c589d0fb3daca1bd364423/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/cf90d18479c589d0fb3daca1bd364423/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/21a821886f16a13cc51cc7d2c5afbe62/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/21a821886f16a13cc51cc7d2c5afbe62/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/4e77e8c91466787c7583b0b59f89323d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/4e77e8c91466787c7583b0b59f89323d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/7f17cdbbea882f480497688f52551169/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/7f17cdbbea882f480497688f52551169/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/0d1404341a935a8b3022176a99fe6882/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/0d1404341a935a8b3022176a99fe6882/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/0cd15496c243bb2ccef803ef27807a3f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/0cd15496c243bb2ccef803ef27807a3f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/e57f61270627db4ce640d4cb5e6ad1a6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/e57f61270627db4ce640d4cb5e6ad1a6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/33c18d0d22c08d06ca5b3c6800a3bd50/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/33c18d0d22c08d06ca5b3c6800a3bd50/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/57ce0bc13aafdc1ba0ade891007ef22c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/57ce0bc13aafdc1ba0ade891007ef22c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/a6a28d4f1250a5d3e4e5fb153e16ec09/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/a6a28d4f1250a5d3e4e5fb153e16ec09/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/29ab5e73237a68899dd8ffe97bc1d074/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/29ab5e73237a68899dd8ffe97bc1d074/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/6fa69e876b701beb1d3a1d595a232cfe/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/6fa69e876b701beb1d3a1d595a232cfe/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/de1b327453f4728bbe7b1ce2b6893baf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/de1b327453f4728bbe7b1ce2b6893baf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/76f682e44b3954a468b04a09caf03d7a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/76f682e44b3954a468b04a09caf03d7a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/645b79b0cec33410b5dd5bed8d5a3391/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/645b79b0cec33410b5dd5bed8d5a3391/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/8fe733984bad72d55838bda946c18ad7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/8fe733984bad72d55838bda946c18ad7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/070b2a0b004598f50422ddea906a0b69/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/070b2a0b004598f50422ddea906a0b69/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/b8126bb74779e796428c726202bd1ba3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/b8126bb74779e796428c726202bd1ba3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/062db87c57b3d9b41138b7e8fc9dac63/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/062db87c57b3d9b41138b7e8fc9dac63/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/6b2dc8129d043f1682601a232043d27a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/6b2dc8129d043f1682601a232043d27a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/7f0c69e62fdafcf00df7de13d4d1bd27/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/7f0c69e62fdafcf00df7de13d4d1bd27/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/abe143e83e944ab30baf4faddf697acb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/abe143e83e944ab30baf4faddf697acb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/081a15abd9f32abeefd04fddd943da82/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/081a15abd9f32abeefd04fddd943da82/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/d9090b2f6c0f52354a0e09ede3bd43c7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/d9090b2f6c0f52354a0e09ede3bd43c7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/5b221e201464292f4ed1e9853c29ff35/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/5b221e201464292f4ed1e9853c29ff35/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/c9bca79405a7f97e4b8e61049c296ca6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/c9bca79405a7f97e4b8e61049c296ca6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/2ba7b29874fdb1cc299f277dbd3e0c85/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/2ba7b29874fdb1cc299f277dbd3e0c85/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/0fea354ccd6ed199beb1bb15ec38b3fd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/0fea354ccd6ed199beb1bb15ec38b3fd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/1ee0fdab938aca973927c32b28c6a617/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/1ee0fdab938aca973927c32b28c6a617/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/edb52a407431dfdbe79858bc324ef156/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/edb52a407431dfdbe79858bc324ef156/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/85c61447393a70835f3c6313329cba38/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/85c61447393a70835f3c6313329cba38/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/b80162b468e4303c3294f461dbbb429d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/b80162b468e4303c3294f461dbbb429d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/fa3e11198fd41b6c6017245a95592745/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/fa3e11198fd41b6c6017245a95592745/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/d8d23a12ab67e7a929e0cccdadd6e4ff/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/d8d23a12ab67e7a929e0cccdadd6e4ff/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/8e00f6f06a76410b998d1d15d1622b7c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/8e00f6f06a76410b998d1d15d1622b7c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/6aa4e633ad1c15b46f79bfa2bc3e10b9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/6aa4e633ad1c15b46f79bfa2bc3e10b9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/747a3bc70657f59c6b642e5bcc5d9aca/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/747a3bc70657f59c6b642e5bcc5d9aca/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/70e6257c7382f1d452b46b2def917cec/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/70e6257c7382f1d452b46b2def917cec/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/db6ec36280645ae0f511fb99a6ae997f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/db6ec36280645ae0f511fb99a6ae997f/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/bd8484c82ba0dff82fcf6694b13c5a30/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/bd8484c82ba0dff82fcf6694b13c5a30/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-43
+activity#com.parse.starter.MainActivity
+ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:27-74
+activity#com.parse.starter.UserActivity
+ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:9-50
+	android:name
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:19-47
+activity#com.parse.starter.UserFeed
+ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:9-55
+	android:name
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:19-43
+uses-sdk
+INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/ba1a1f06c42cdf02cde9262c2eb5a919/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/ba1a1f06c42cdf02cde9262c2eb5a919/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/ed2be75e3abb7408b31fece7de9e5aef/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/ed2be75e3abb7408b31fece7de9e5aef/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/262c84fdd1bf7d4c0c74846b2f36d8c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/262c84fdd1bf7d4c0c74846b2f36d8c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4185d9ea62146e631af9ad782961d4fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4185d9ea62146e631af9ad782961d4fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/470baa7104cb277802a7339cb45fe119/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/470baa7104cb277802a7339cb45fe119/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:multidex:1.0.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/multidex-1.0.0.aar/04c791fa6f84457983a1f68e2411f142/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/multidex-1.0.0.aar/04c791fa6f84457983a1f68e2411f142/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bb9cc1793d65732e09dc279bd90349c6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bb9cc1793d65732e09dc279bd90349c6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/7269d5a58bbbf5945f55893447a118d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/7269d5a58bbbf5945f55893447a118d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/829b13ac2aa779c379acf87caddb2296/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/829b13ac2aa779c379acf87caddb2296/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/537eeb48436516e36421fd04720e8786/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/537eeb48436516e36421fd04720e8786/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/0b9d9b178a9bcba5f9674933500f9c2a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/0b9d9b178a9bcba5f9674933500f9c2a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/035ab10e5b7a490d3138ae7ce9e0d126/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/035ab10e5b7a490d3138ae7ce9e0d126/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/859c57aa6c9f9233f9551534852cdcb9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/859c57aa6c9f9233f9551534852cdcb9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/a3fb0e73998880ae15eb85c6a418667f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/a3fb0e73998880ae15eb85c6a418667f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/dea82f61afeeae028692efeb1d3a8b5f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/dea82f61afeeae028692efeb1d3a8b5f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/533c5c09704e9d44adbfc39cac701d28/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/533c5c09704e9d44adbfc39cac701d28/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/0b4ef7f68177413bd545c9215757f99a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/0b4ef7f68177413bd545c9215757f99a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/8b476978b2191ecd31232e0b26c2fef7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/8b476978b2191ecd31232e0b26c2fef7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/a57bdeb11f1e470facbe6a54e4f11cd7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/a57bdeb11f1e470facbe6a54e4f11cd7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b0b8ab434edd8f86c0069cc5c7f7bd54/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b0b8ab434edd8f86c0069cc5c7f7bd54/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/23bc070694d37fc5db96e1b227b52848/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/23bc070694d37fc5db96e1b227b52848/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/755c6845321ac54b778cca5b2b59734d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/755c6845321ac54b778cca5b2b59734d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/9745547f9fe71c416dbd817e7a6ff38f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/9745547f9fe71c416dbd817e7a6ff38f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/dc80c0c9cf60d59daddc21e2a38ce909/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/dc80c0c9cf60d59daddc21e2a38ce909/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/7a6d6687ddbf0f82096057acb453fbb9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/7a6d6687ddbf0f82096057acb453fbb9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/975b5ec56fa46852b16e6563fc001652/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/975b5ec56fa46852b16e6563fc001652/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/ed1ecfdecc0e017355b2123c63f49cb4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/ed1ecfdecc0e017355b2123c63f49cb4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/d8a4c86eaae09ead63e8e016fe99fd72/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/d8a4c86eaae09ead63e8e016fe99fd72/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/77f39f6df65de435bf5048061f4194ed/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/77f39f6df65de435bf5048061f4194ed/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/8d3832b0c2030d1807bb9715c5f098ee/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/8d3832b0c2030d1807bb9715c5f098ee/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/afb6d07c96ce43040cf3d249c40b27fc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/afb6d07c96ce43040cf3d249c40b27fc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/54231cb26af447a057f6f820460951dc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/54231cb26af447a057f6f820460951dc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/8b8643072c2a98853a335e93b6455a6d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/8b8643072c2a98853a335e93b6455a6d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/ef11b46237a8fb88079ba4008010f5fa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/ef11b46237a8fb88079ba4008010f5fa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/e4d888e23856f9ceb160d6f4e7e4e42c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/e4d888e23856f9ceb160d6f4e7e4e42c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/7d402646e305bd3b9f2bd8910f52b9a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/7d402646e305bd3b9f2bd8910f52b9a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/a61784a934bc486b71a5b4a81fa069f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/a61784a934bc486b71a5b4a81fa069f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/33f0ddbcf266ceb654497fc43c7a8e6d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/33f0ddbcf266ceb654497fc43c7a8e6d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/5862394ed065662a54f075cb887e6bdb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/5862394ed065662a54f075cb887e6bdb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/8e74d172173f1efa4f79f17031102dc3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/8e74d172173f1efa4f79f17031102dc3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6781e2c0b2aaad7bcf6df54acdb1f4fd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6781e2c0b2aaad7bcf6df54acdb1f4fd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/fb385b866a43913c3861f4e7532948c2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/fb385b866a43913c3861f4e7532948c2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/035fea31aaffe73e1ffbd67c34a5b988/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/035fea31aaffe73e1ffbd67c34a5b988/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/0e3e170cbbf97264f8afd92c0c964cf7/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/0e3e170cbbf97264f8afd92c0c964cf7/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/b2a7aa4a79a23b320bbb9fab4930d533/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/b2a7aa4a79a23b320bbb9fab4930d533/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/9f7c3382d082614dca91325ffdd73c4d/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/9f7c3382d082614dca91325ffdd73c4d/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/a6e283cec6cb99e4fac5bd36ae5963e7/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/a6e283cec6cb99e4fac5bd36ae5963e7/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/0b50e8216eaaf3cebb23cc4abc43d40f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/0b50e8216eaaf3cebb23cc4abc43d40f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/375c0702562259ab4e2553d760f5b5e7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/375c0702562259ab4e2553d760f5b5e7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/9ec6e607fd18116bd23486ad4193cc19/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/9ec6e607fd18116bd23486ad4193cc19/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/cdb9fb4a6ffb2d9b2df7a5f101b1fe39/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/cdb9fb4a6ffb2d9b2df7a5f101b1fe39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4e1f10d981e6c08390e81130c8a6ff43/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4e1f10d981e6c08390e81130c8a6ff43/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fca6cb2915e72ff491f8b83483489b5d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fca6cb2915e72ff491f8b83483489b5d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3b8add7f5df89e4abe45f84cc999b708/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3b8add7f5df89e4abe45f84cc999b708/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0e7d4a8e89dc7d19d62d298f18060052/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0e7d4a8e89dc7d19d62d298f18060052/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/7354e752df3931f13ba9afda85b88657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/7354e752df3931f13ba9afda85b88657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/41e0a1d89e82698d02b6c113cfcd7e25/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/41e0a1d89e82698d02b6c113cfcd7e25/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8c4e07aa7cdcf3b799e5b9a1aba63131/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8c4e07aa7cdcf3b799e5b9a1aba63131/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/af2a03ef4ffaf6e579f1fa13363e1b2c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/af2a03ef4ffaf6e579f1fa13363e1b2c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/168bc4150fe3cd0b404a720da67e2076/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/168bc4150fe3cd0b404a720da67e2076/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/9ad380fca323a54c7bb2fc9569e717b3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/9ad380fca323a54c7bb2fc9569e717b3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/2574e69657b5ccb3221ab63e085b2207/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/2574e69657b5ccb3221ab63e085b2207/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/bc56b4684826c27228b50bd79264f498/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/bc56b4684826c27228b50bd79264f498/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/9fb24bfebde5d979c0b01b1127e195f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/9fb24bfebde5d979c0b01b1127e195f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/561a4fef91b57923b3e3a56c6723b0a5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/561a4fef91b57923b3e3a56c6723b0a5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/80413bd082a1861a0f8a34de671c0744/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/80413bd082a1861a0f8a34de671c0744/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/4ef8dcee43306dc0c21b1a43d6eb492f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/4ef8dcee43306dc0c21b1a43d6eb492f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/01ed5a0fe451fe36e057d0d26615d12b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/01ed5a0fe451fe36e057d0d26615d12b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/cf5ecde2607da7bbd393e4e9f904c84a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/cf5ecde2607da7bbd393e4e9f904c84a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/f3ff7e9f589c6dc08b548e9a7ce2c5a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/f3ff7e9f589c6dc08b548e9a7ce2c5a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/cf90d18479c589d0fb3daca1bd364423/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/cf90d18479c589d0fb3daca1bd364423/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/21a821886f16a13cc51cc7d2c5afbe62/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/21a821886f16a13cc51cc7d2c5afbe62/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/4e77e8c91466787c7583b0b59f89323d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/4e77e8c91466787c7583b0b59f89323d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/7f17cdbbea882f480497688f52551169/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/7f17cdbbea882f480497688f52551169/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/0d1404341a935a8b3022176a99fe6882/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/0d1404341a935a8b3022176a99fe6882/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/0cd15496c243bb2ccef803ef27807a3f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/0cd15496c243bb2ccef803ef27807a3f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/e57f61270627db4ce640d4cb5e6ad1a6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/e57f61270627db4ce640d4cb5e6ad1a6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/33c18d0d22c08d06ca5b3c6800a3bd50/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/33c18d0d22c08d06ca5b3c6800a3bd50/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/57ce0bc13aafdc1ba0ade891007ef22c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/57ce0bc13aafdc1ba0ade891007ef22c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/a6a28d4f1250a5d3e4e5fb153e16ec09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/a6a28d4f1250a5d3e4e5fb153e16ec09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/29ab5e73237a68899dd8ffe97bc1d074/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/29ab5e73237a68899dd8ffe97bc1d074/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/6fa69e876b701beb1d3a1d595a232cfe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/6fa69e876b701beb1d3a1d595a232cfe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/de1b327453f4728bbe7b1ce2b6893baf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/de1b327453f4728bbe7b1ce2b6893baf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/76f682e44b3954a468b04a09caf03d7a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/76f682e44b3954a468b04a09caf03d7a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/645b79b0cec33410b5dd5bed8d5a3391/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/645b79b0cec33410b5dd5bed8d5a3391/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/8fe733984bad72d55838bda946c18ad7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/8fe733984bad72d55838bda946c18ad7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/070b2a0b004598f50422ddea906a0b69/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/070b2a0b004598f50422ddea906a0b69/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/b8126bb74779e796428c726202bd1ba3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/b8126bb74779e796428c726202bd1ba3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/062db87c57b3d9b41138b7e8fc9dac63/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/062db87c57b3d9b41138b7e8fc9dac63/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/6b2dc8129d043f1682601a232043d27a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/6b2dc8129d043f1682601a232043d27a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/7f0c69e62fdafcf00df7de13d4d1bd27/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/7f0c69e62fdafcf00df7de13d4d1bd27/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/abe143e83e944ab30baf4faddf697acb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/abe143e83e944ab30baf4faddf697acb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/081a15abd9f32abeefd04fddd943da82/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/081a15abd9f32abeefd04fddd943da82/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/d9090b2f6c0f52354a0e09ede3bd43c7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/d9090b2f6c0f52354a0e09ede3bd43c7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/5b221e201464292f4ed1e9853c29ff35/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/5b221e201464292f4ed1e9853c29ff35/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/c9bca79405a7f97e4b8e61049c296ca6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/c9bca79405a7f97e4b8e61049c296ca6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/2ba7b29874fdb1cc299f277dbd3e0c85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/2ba7b29874fdb1cc299f277dbd3e0c85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/0fea354ccd6ed199beb1bb15ec38b3fd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/0fea354ccd6ed199beb1bb15ec38b3fd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/1ee0fdab938aca973927c32b28c6a617/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/1ee0fdab938aca973927c32b28c6a617/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/edb52a407431dfdbe79858bc324ef156/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/edb52a407431dfdbe79858bc324ef156/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/85c61447393a70835f3c6313329cba38/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/85c61447393a70835f3c6313329cba38/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/b80162b468e4303c3294f461dbbb429d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/b80162b468e4303c3294f461dbbb429d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/fa3e11198fd41b6c6017245a95592745/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/fa3e11198fd41b6c6017245a95592745/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/d8d23a12ab67e7a929e0cccdadd6e4ff/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/d8d23a12ab67e7a929e0cccdadd6e4ff/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/8e00f6f06a76410b998d1d15d1622b7c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/8e00f6f06a76410b998d1d15d1622b7c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/6aa4e633ad1c15b46f79bfa2bc3e10b9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/6aa4e633ad1c15b46f79bfa2bc3e10b9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/747a3bc70657f59c6b642e5bcc5d9aca/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/747a3bc70657f59c6b642e5bcc5d9aca/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/70e6257c7382f1d452b46b2def917cec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/70e6257c7382f1d452b46b2def917cec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/db6ec36280645ae0f511fb99a6ae997f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/db6ec36280645ae0f511fb99a6ae997f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/bd8484c82ba0dff82fcf6694b13c5a30/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/bd8484c82ba0dff82fcf6694b13c5a30/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/470baa7104cb277802a7339cb45fe119/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/ed2be75e3abb7408b31fece7de9e5aef/AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/ed2be75e3abb7408b31fece7de9e5aef/AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/ed2be75e3abb7408b31fece7de9e5aef/AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/ed2be75e3abb7408b31fece7de9e5aef/AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/ed2be75e3abb7408b31fece7de9e5aef/AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/ed2be75e3abb7408b31fece7de9e5aef/AndroidManifest.xml:11:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:mediarouter-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4185d9ea62146e631af9ad782961d4fb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/470baa7104cb277802a7339cb45fe119/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/470baa7104cb277802a7339cb45fe119/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/7269d5a58bbbf5945f55893447a118d4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/7269d5a58bbbf5945f55893447a118d4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4e1f10d981e6c08390e81130c8a6ff43/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4e1f10d981e6c08390e81130c8a6ff43/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fca6cb2915e72ff491f8b83483489b5d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fca6cb2915e72ff491f8b83483489b5d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3b8add7f5df89e4abe45f84cc999b708/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/3b8add7f5df89e4abe45f84cc999b708/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0e7d4a8e89dc7d19d62d298f18060052/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0e7d4a8e89dc7d19d62d298f18060052/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/7354e752df3931f13ba9afda85b88657/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/7354e752df3931f13ba9afda85b88657/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/41e0a1d89e82698d02b6c113cfcd7e25/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/41e0a1d89e82698d02b6c113cfcd7e25/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8c4e07aa7cdcf3b799e5b9a1aba63131/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8c4e07aa7cdcf3b799e5b9a1aba63131/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/af2a03ef4ffaf6e579f1fa13363e1b2c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/af2a03ef4ffaf6e579f1fa13363e1b2c/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4185d9ea62146e631af9ad782961d4fb/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/4185d9ea62146e631af9ad782961d4fb/AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/537eeb48436516e36421fd04720e8786/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/537eeb48436516e36421fd04720e8786/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/537eeb48436516e36421fd04720e8786/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/537eeb48436516e36421fd04720e8786/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/537eeb48436516e36421fd04720e8786/AndroidManifest.xml:30:13-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/859c57aa6c9f9233f9551534852cdcb9/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/859c57aa6c9f9233f9551534852cdcb9/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/fe2a3de18e8105a09bbaa3dc36bcc5f0/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/f31fff4d57e61f128fe34881811afe10/AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/a3fb0e73998880ae15eb85c6a418667f/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/a3fb0e73998880ae15eb85c6a418667f/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/a3fb0e73998880ae15eb85c6a418667f/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/a3fb0e73998880ae15eb85c6a418667f/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/a3fb0e73998880ae15eb85c6a418667f/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/a3fb0e73998880ae15eb85c6a418667f/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/a3fb0e73998880ae15eb85c6a418667f/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/a3fb0e73998880ae15eb85c6a418667f/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/a3fb0e73998880ae15eb85c6a418667f/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/755c6845321ac54b778cca5b2b59734d/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/755c6845321ac54b778cca5b2b59734d/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/755c6845321ac54b778cca5b2b59734d/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/755c6845321ac54b778cca5b2b59734d/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/755c6845321ac54b778cca5b2b59734d/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/755c6845321ac54b778cca5b2b59734d/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/755c6845321ac54b778cca5b2b59734d/AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/7a6d6687ddbf0f82096057acb453fbb9/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/77f39f6df65de435bf5048061f4194ed/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/77f39f6df65de435bf5048061f4194ed/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/7a6d6687ddbf0f82096057acb453fbb9/AndroidManifest.xml:23:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/8b8643072c2a98853a335e93b6455a6d/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/8b8643072c2a98853a335e93b6455a6d/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/8b8643072c2a98853a335e93b6455a6d/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6781e2c0b2aaad7bcf6df54acdb1f4fd/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6781e2c0b2aaad7bcf6df54acdb1f4fd/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6781e2c0b2aaad7bcf6df54acdb1f4fd/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/6781e2c0b2aaad7bcf6df54acdb1f4fd/AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/b2a7aa4a79a23b320bbb9fab4930d533/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/b2a7aa4a79a23b320bbb9fab4930d533/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/b2a7aa4a79a23b320bbb9fab4930d533/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/b2a7aa4a79a23b320bbb9fab4930d533/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/b2a7aa4a79a23b320bbb9fab4930d533/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/b2a7aa4a79a23b320bbb9fab4930d533/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/b2a7aa4a79a23b320bbb9fab4930d533/AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.parse.starter
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/53412901eead0d7fdefdcf00d1d5bb27/AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f62446601926e7467ba100b3c4244691/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/00926b7bbdda09b4f2ef62a1986a38ea/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:29:9-63
+permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:32:22-76
+uses-permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.parse.starter
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:42:27-58
+category#com.parse.starter
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/8b9ce2d106de216dd1b908c672d3a745/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/0b50e8216eaaf3cebb23cc4abc43d40f/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/0b50e8216eaaf3cebb23cc4abc43d40f/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/0b50e8216eaaf3cebb23cc4abc43d40f/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/0b50e8216eaaf3cebb23cc4abc43d40f/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/0b50e8216eaaf3cebb23cc4abc43d40f/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/cdb9fb4a6ffb2d9b2df7a5f101b1fe39/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/cdb9fb4a6ffb2d9b2df7a5f101b1fe39/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/cdb9fb4a6ffb2d9b2df7a5f101b1fe39/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/bd8484c82ba0dff82fcf6694b13c5a30/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/bd8484c82ba0dff82fcf6694b13c5a30/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/DhivaK/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/bd8484c82ba0dff82fcf6694b13c5a30/AndroidManifest.xml:26:13-58

@@ -1,0 +1,4 @@
+#Wed Dec 19 14:04:52 PST 2018
+base.0=/Users/DhivaK/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
